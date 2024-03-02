@@ -147,7 +147,7 @@ This project demonstrates an end-to-end data engineering solution for HR data an
 # Contacts
 For any questions or further information, feel free to contact me :)
 
-- **linkedin**: <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
-- **Email**: `aymanemaghouti@gmail.com`
+- **linkedin**: <a href="[https://www.linkedin.com/in/aymane-maghouti/](https://www.linkedin.com/in/badrouzidan/)" target="_blank">OUZIDAN BADR </a><br>
+- **Email**: `badr.ouzidan.email@gmail.com`
 
 
